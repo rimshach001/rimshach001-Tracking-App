@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "532697981056",
+    "project_id": "fir-cc037",
+    "storage_bucket": "fir-cc037.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:532697981056:android:8032360301661f683c4665",
+        "android_client_info": {
+          "package_name": "com.trackingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "532697981056-bpf8pag31tengbnv7nckfmhbbm6gi1p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF8QCou5eZUWVtUpnB1M1L4C0zZFdCx3E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "532697981056-bpf8pag31tengbnv7nckfmhbbm6gi1p5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
